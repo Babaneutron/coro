@@ -3,7 +3,7 @@
 
   Transportio is a fully responsive transportation website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/transportio/"><strong>➥ Live Demo</strong></a>
+  <a href="[https://github.com/Babaneutron/coro]/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -26,18 +26,18 @@ To run **Transportio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/transportio.git
+sudo git clone https://github.com/Babaneutron/coro.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/transportio.git
+git clone https://github.com/Babaneutron/coro.git
 ```
 
-### Contact
+## Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [whatsapp]().
 
 ### License
 
